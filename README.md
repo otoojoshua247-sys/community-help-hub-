@@ -13,3 +13,15 @@ This project uses only Python's standard library, so no external Python packages
 # Community Help Hub
 # Python 3.10 or newer
 # No external dependencies required
+
+<pre>
+Method
+          Endpoint 
+                         Purpose
+ GET    /api/health    Check server health
+ GET    /api/requests  List requests
+ GET    /api/requests/1 Viewaparticular request
+POST   /api/requests  Create a request
+PATCH  /api/requests/1 Update a request's status
+
+</pre>
