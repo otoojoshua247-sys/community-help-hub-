@@ -1,6 +1,6 @@
 > Community-help-hub-
 
-</pre>
+<pre>
 Run: java CommunityHelpHub
 </pre>
 
